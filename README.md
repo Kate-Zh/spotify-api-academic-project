@@ -1,4 +1,4 @@
-# spotify-api-academic-project
+# spotify-api-project
 ## A project to introduce myself
 Hey there! My name is Kate and I'm passionate about music!
 That's why I've chosen this topic to make a project using Python.
