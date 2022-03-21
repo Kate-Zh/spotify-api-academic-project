@@ -25,7 +25,7 @@ Unfortunately I couldn't get data about music genres with the spotipy so I used 
 14. Industrial Rock
 15. Melodic Groove Metal
 
-Let's see how this correlates with the main spitify audio features:
+Let's see how this correlates with the main spotify audio features:
 
 **acousticness** - a confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
 (>= 0 <= 1)
